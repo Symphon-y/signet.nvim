@@ -1,6 +1,6 @@
 # signet.nvim
 
-A small, dark, warm-and-muted Neovim colorscheme. Own palette, own code — no dependency on any other theme plugin.
+A small, dark, warm-and-muted Neovim colorscheme.
 
 ## Features
 
