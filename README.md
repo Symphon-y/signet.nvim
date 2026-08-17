@@ -2,6 +2,8 @@
 
 A small, dark, warm-and-muted Neovim colorscheme.
 
+<img src="https://i.imgur.com/s594n2H.png" />
+
 ## Features
 
 - **One appearance, done well** — a single dark palette, no light variant, no configuration surface to reason about
